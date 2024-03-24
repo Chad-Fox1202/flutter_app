@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "705927974874",
+    "project_id": "cs3541-final-4pmlabsection2",
+    "storage_bucket": "cs3541-final-4pmlabsection2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705927974874:android:e26de45d6e35300ea63ae3",
+        "android_client_info": {
+          "package_name": "com.example.game_geek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705927974874-0453sqqe0u9s5e037mciqmc8ineie32a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.game_geek",
+            "certificate_hash": "89eb311f7420873da652358c5aa0106c9ddf7bd5"
+          }
+        },
+        {
+          "client_id": "705927974874-vp25n0g6dume9akp62lom8u5tr0vp5vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ20cftJmJ3_Jzt7p5oFEZDO1Q7u3Jeig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705927974874-vp25n0g6dume9akp62lom8u5tr0vp5vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
